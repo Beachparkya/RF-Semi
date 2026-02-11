@@ -1,5 +1,5 @@
 # RF-Semi
-semi-supervised RF model
+Semi-supervised RF model
 This repository contains the data, MATLAB code, and supporting output files for A a semi-supervised machine learning framework to predict urban stormwater runoff quality in data-deficient areas.
 The workflow implements a semi-supervised Random Forest regression framework for predicting event mean concentrations (EMCs) of TSS, TN, and TP using:
 (1)Labeled events: rainfall + catchment features with observed EMCs
